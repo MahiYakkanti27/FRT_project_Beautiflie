@@ -2,7 +2,7 @@
 
 Project link:https://proud-cliff-03048c300.3.azurestaticapps.net/#
 
-Project demolink:
+Project demo link:https://youtu.be/NXD8ik-JAOY
 
 →AZURE TECHNOLOGIES USED FOR THIS WEBSITE:
 
